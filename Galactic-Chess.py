@@ -1,6 +1,4 @@
 # Author: Aaron Fuller
-# GitHub username: aaronmfuller
-# Date: 12/5/2023
 # Description: Galactic Chess: A one-player chess game that uses the stockfish chess
 # API for the opponent's logic, Chessnut for move validation, and Pygame for the GUI.
 
